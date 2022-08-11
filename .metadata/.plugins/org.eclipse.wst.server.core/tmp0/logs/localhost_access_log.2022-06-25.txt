@@ -1,0 +1,11 @@
+127.0.0.1 - - [25/Jun/2022:19:58:20 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:24 +0530] "GET /LoginModuleJDBC/login.jsp HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:24 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:44 +0530] "GET /LoginModuleJDBC/welcome.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:44 +0530] "GET /LoginModuleJDBC/login.jsp HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:51 +0530] "POST /LoginModuleJDBC/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:51 +0530] "GET /LoginModuleJDBC/welcome.jsp HTTP/1.1" 200 271
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:55 +0530] "GET /LoginModuleJDBC/videos.jsp HTTP/1.1" 200 321
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:57 +0530] "GET /LoginModuleJDBC/welcome.jsp HTTP/1.1" 200 271
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:58 +0530] "GET /LoginModuleJDBC/Logout? HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Jun/2022:19:58:58 +0530] "GET /LoginModuleJDBC/login.jsp HTTP/1.1" 200 342

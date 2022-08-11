@@ -1,0 +1,8 @@
+
+Jun 25, 2022 19:58:25.90 NEW SESSION
+Jun 25, 2022 19:58:25.90 [16352:15512:0625/195825.897:ERROR:device_event_log_impl.cc(214)] [19:58:25.897] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 19:59:21.91 [16352:12840:0625/195921.915:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 11, 2022 17:47:25.69 NEW SESSION
+Jul 11, 2022 17:47:25.69 [9728:9752:0711/174725.691:ERROR:device_event_log_impl.cc(214)] [17:47:25.691] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 11, 2022 17:48:23.53 [9728:780:0711/174823.532:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
